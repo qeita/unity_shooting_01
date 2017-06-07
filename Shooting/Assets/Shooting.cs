@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Shooting : MonoBehaviour {
+	// https://unity3d.sakura.ne.jp/unity/prefab.html
 
 	// bullet prefab
 	public GameObject bullet;
